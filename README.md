@@ -4,11 +4,11 @@
 
 <h4>Tecnologias que conheço</h4>
 
---
+---
 
 |      Frameworks      |      Linguagens      |
 |---------------------|--------------------|
-|![image]({https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white})|![image]({https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green})|
+|![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)|![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)|
 
 ----
 
