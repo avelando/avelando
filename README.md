@@ -4,12 +4,13 @@
 
 <h4>Tecnologias que conheço</h4>
 
-----
+--
 
-| Conteúdo à esquerda | Conteúdo à direita |
+|      Frameworks      |      Linguagens      |
 |---------------------|--------------------|
-| Este é o lado esquerdo | Este é o lado direito |
+|![image]({https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white})|![image]({https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green})|
 
+----
 
 <!--wakatime-->
 <!--START_SECTION:waka-->
