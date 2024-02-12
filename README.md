@@ -1,10 +1,16 @@
-<h3 align="center">Avelar Rodrigues</h3>
+<h3 align="center">Olá, eu sou Avelar Rodrigues✨</h3>
+
+# 
+
+> Graduando em Análise e Desenvolvimento de Sistemas💻
+
+> Técnico em Informática para Internet🎓
 
 ----
 
-<h4>Tecnologias que conheço</h4>
+<h4>  •  Tecnologias que conheço</h4>
 
----
+###
 
 |      Languages      |      Frameworks      |      Design      |
 |---------------------|--------------------|---------------------|
@@ -13,7 +19,14 @@
 |      Database      |      IDE      |      OS      |
 |---------------------|--------------------|---------------------|
 |<div align="center">![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</div>|<div align="center">![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![image](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)![image](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)</div>|<div align="center">![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</div>|
+
 ----
+
+<h4>  •  Redes sociais</h4>
+
+###
+
+
 
 <!--wakatime-->
 <!--START_SECTION:waka-->
