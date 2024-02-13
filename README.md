@@ -20,6 +20,17 @@
 |:-------------------:|:--------------:|:------------:|
 |<div align="center"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> </div>|<div align="center"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> </div>|<div align="center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </div>|
 
+<h4>  •  Estatísticas</h4>
+
+<div>
+  <a href="https://github.com/avelando" style="margin-right: 20px;">
+    <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelando&layout=compact&langs_count=7&theme=transparent"/>
+  </a>
+  <a href="https://github.com/avelando">
+    <img height="auto" src="https://github-readme-stats.vercel.app/api?username=avelando&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
 ----
 
 <h4>  •  Redes Sociais e Contato</h4>
@@ -63,8 +74,13 @@
   <a href="https://br.pinterest.com/avelarrodrigues89/">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
   </a>
+  <a href="https://www.last.fm/user/avelandoo">
+    <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white">
+  </a>
+  <a href="https://open.spotify.com/user/31mlxcfnfumylh4mr5wj6bbr7zum">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
 </div>
-
 
 ---
 
