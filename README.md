@@ -39,27 +39,27 @@
   <a href="https://www.behance.net/avelarrodrigues1">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
   </a>
-  <a href="https://twitter.com/avelandooo">
+<!--   <a href="https://twitter.com/avelandooo">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
+  </a> -->
   <a href="https://www.facebook.com/avelar.rodrigues.921/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
   <a href="https://www.instagram.com/avelando/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.tiktok.com/@aavelando">
+<!--   <a href="https://www.tiktok.com/@aavelando">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/avelar-rodrigues-15568a1b1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://orcid.org/0009-0008-7433-8262">
+<!--   <a href="https://orcid.org/0009-0008-7433-8262">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
-  </a>
-  <a href="https://www.threads.net/@avelando">
+  </a> -->
+<!--   <a href="https://www.threads.net/@avelando">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white">
-  </a>
+  </a> -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avelarrodrigues89@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -69,15 +69,15 @@
   <a href="https://discord.com/channels/@me/1103440684406538360">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://br.pinterest.com/avelarrodrigues89/">
+<!--   <a href="https://br.pinterest.com/avelarrodrigues89/">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
-  </a>
-  <a href="https://www.last.fm/user/avelandoo">
+  </a> -->
+<!--   <a href="https://www.last.fm/user/avelandoo">
     <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white">
-  </a>
-  <a href="https://open.spotify.com/user/31mlxcfnfumylh4mr5wj6bbr7zum">
+  </a> -->
+<!--   <a href="https://open.spotify.com/user/31mlxcfnfumylh4mr5wj6bbr7zum">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  </a>
+  </a> -->
 </div>
 
 ---
