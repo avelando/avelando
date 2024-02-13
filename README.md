@@ -23,11 +23,11 @@
 <h4>  •  Estatísticas</h4>
 
 <div align="center">
-  <a href="https://github.com/avelando" style="margin-right: 20px;">
-    <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelando&layout=compact&langs_count=7&theme=transparent"/>
+  <a href="https://github.com/avelando/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelando&layout=compact&theme=transparent&hide_border=true&locale=pt-BR&title_color=FFFFFF&text_color=FFFFFF">
   </a>
-  <a href="https://github.com/avelando">
-    <img height="auto" src="https://github-readme-stats.vercel.app/api?username=avelando&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/avelando/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=avelando&theme=transparent&hide_border=true&locale=pt-BR&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide=issues,prs">
   </a>
 </div>
 
