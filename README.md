@@ -22,7 +22,7 @@
 
 <h4>  •  Estatísticas</h4>
 
-<div>
+<div align="center">
   <a href="https://github.com/avelando" style="margin-right: 20px;">
     <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelando&layout=compact&langs_count=7&theme=transparent"/>
   </a>
