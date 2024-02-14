@@ -27,7 +27,7 @@
 <h2>📈  Statistics</h2>
 
 <div href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelando&layout=compact&theme=dracula&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelando&layout=compact&theme=dracula&hide_border=true&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api?username=avelando&theme=dracula&hide_border=true&count_private=true&hide=issues">
 </div>
 
