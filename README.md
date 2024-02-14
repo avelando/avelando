@@ -25,12 +25,12 @@
 <h4>  •  Statistics</h4>
 
 <div href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelando&layout=compact&theme=dracula&hide_border=true&locale=pt-BR">
-  <img src="https://github-readme-stats.vercel.app/api?username=avelando&theme=dracula&hide_border=true&locale=pt-BR&count_private=true&hide=issues">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelando&layout=compact&theme=dracula&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=avelando&theme=dracula&hide_border=true&count_private=true&hide=issues">
 </div>
 
 <div align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=avelando&hide_border=true&locale=pt-BR&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=avelando&hide_border=true&theme=dracula">
 </div>
 
 ----
