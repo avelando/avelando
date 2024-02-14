@@ -14,11 +14,11 @@
 
 |      Languages      |      Frameworks      |      Design      |
 |:-------------------:|:--------------------:|:-----------------:|
-|<div align="center"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> </div>|<div align="center"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"> </div>|<div align="center"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> </div>|
+|<div align="center"> <img src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/C-282A36?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/json-282A36?style=for-the-badge&logo=json&logoColor=white"> <img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=282A36"> <img src="https://img.shields.io/badge/Ruby-282A36?style=for-the-badge&logo=ruby&logoColor=white"> </div>|<div align="center"> <img src="https://img.shields.io/badge/Bootstrap-282A36?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Django-282A36?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Ruby_on_Rails-282A36?style=for-the-badge&logo=ruby-on-rails&logoColor=white"> </div>|<div align="center"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-282A36?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Figma-282A36?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Premiere-282A36?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-282A36?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white&color=282A36"> </div>|
 
 |     Database      |      IDE      |      OS      |
 |:-------------------:|:--------------:|:------------:|
-|<div align="center"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> </div>|<div align="center"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> </div>|<div align="center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </div>|
+|<div align="center"> <img src="https://img.shields.io/badge/MySQL-282A36?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Sqlite-282A36?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-282A36?style=for-the-badge&logo=postgresql&logoColor=white"> </div>|<div align="center"> <img src="https://img.shields.io/badge/VSCode-282A36?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/replit-282A36?style=for-the-badge&logo=replit&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-282A36.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> </div>|<div align="center"> <img src="https://img.shields.io/badge/Android-282A36?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Linux-282A36?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-282A36?style=for-the-badge&logo=windows&logoColor=white"> </div>|
 
 ---
 
@@ -39,27 +39,15 @@
   <a href="https://www.behance.net/avelarrodrigues1">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
   </a>
-<!--   <a href="https://twitter.com/avelandooo">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a> -->
   <a href="https://www.facebook.com/avelar.rodrigues.921/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
   <a href="https://www.instagram.com/avelando/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-<!--   <a href="https://www.tiktok.com/@aavelando">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a> -->
   <a href="https://www.linkedin.com/in/avelar-rodrigues-15568a1b1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-<!--   <a href="https://orcid.org/0009-0008-7433-8262">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
-  </a> -->
-<!--   <a href="https://www.threads.net/@avelando">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white">
-  </a> -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avelarrodrigues89@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -69,15 +57,6 @@
   <a href="https://discord.com/channels/@me/1103440684406538360">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-<!--   <a href="https://br.pinterest.com/avelarrodrigues89/">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
-  </a> -->
-<!--   <a href="https://www.last.fm/user/avelandoo">
-    <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white">
-  </a> -->
-<!--   <a href="https://open.spotify.com/user/31mlxcfnfumylh4mr5wj6bbr7zum">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  </a> -->
 </div>
 
 ---
