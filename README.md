@@ -30,7 +30,7 @@
 </div>
 
 <div align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=avelando&hide_border=true&locate=pt-BR&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=avelando&hide_border=true&locale=pt-BR&theme=dracula">
 </div>
 
 ----
