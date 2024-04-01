@@ -28,7 +28,7 @@
 
 <div href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img width=300px src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelando&layout=compact&theme=dracula&hide_border=true">
-  <img width=420px src="https://github-readme-stats.vercel.app/api?username=avelando&theme=dracula&hide_border=true&count_private=true&hide=issues,stars">
+  <img width=435px src="https://github-readme-stats.vercel.app/api?username=avelando&theme=dracula&hide_border=true&count_private=true&hide=issues">
 </div>
 
 <div align="center" href="https://github.com/anuraghazra/github-readme-stats">
