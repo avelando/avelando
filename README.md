@@ -49,13 +49,6 @@
 
 ---
 
-<div align="center">
-  <br>
-    <p align="center" style="color:#CFD304;"><strong>Quantidade de visitas:</strong></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{avelando}/count.svg" /></p> 
-  </ br>
-</div>
-
 <!--wakatime-->
 <!--START_SECTION:waka-->
 <div align="center">
